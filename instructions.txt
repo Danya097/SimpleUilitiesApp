@@ -1,0 +1,17 @@
+# GitHub Commit and Branch Plan
+
+1. Initial commit — project created
+2. Add Utilities class with Add method
+3. Add Subtract method
+4. Add RandomNumber method
+5. Branch feature/add-greet — add GreetUser method → Pull Request → merge to main
+6. Branch feature/add-even-check — add IsEven method → Pull Request → merge to main
+7. Refactor Utilities methods (minor improvements)
+8. Final touches in Program.cs and README.md
+
+# How to Use
+
+1. Open SimpleUtilitiesApp.sln in Visual Studio
+2. Build project (Ctrl+Shift+B) to test
+3. Connect to GitHub: Git → Add to Source Control → GitHub
+4. Follow instructions above to commit and push changes

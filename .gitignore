@@ -1,0 +1,39 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Others
+*.log
+*.vspscc
+*.vssscc
+*.pdb
+*.cache
+*.dbmdl
+
+# DotNet Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
