@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elise\\OneDrive\\Desktop\\SimpleUtilitiesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50F5BA2C-95BC-529F-D706-12A94875E27D}|SimpleUtilitiesApp\\SimpleUilitiesApp.csproj|c:\\users\\elise\\onedrive\\desktop\\simpleutilitiesapp\\simpleutilitiesapp\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F5BA2C-95BC-529F-D706-12A94875E27D}|SimpleUtilitiesApp\\SimpleUilitiesApp.csproj|solutionrelative:simpleutilitiesapp\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F5BA2C-95BC-529F-D706-12A94875E27D}|SimpleUtilitiesApp\\SimpleUilitiesApp.csproj|c:\\users\\elise\\onedrive\\desktop\\simpleutilitiesapp\\simpleutilitiesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F5BA2C-95BC-529F-D706-12A94875E27D}|SimpleUtilitiesApp\\SimpleUilitiesApp.csproj|solutionrelative:simpleutilitiesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\Desktop\\SimpleUtilitiesApp\\SimpleUtilitiesApp\\Utilities.cs",
+              "RelativeDocumentMoniker": "SimpleUtilitiesApp\\Utilities.cs",
+              "ToolTip": "C:\\Users\\elise\\OneDrive\\Desktop\\SimpleUtilitiesApp\\SimpleUtilitiesApp\\Utilities.cs",
+              "RelativeToolTip": "SimpleUtilitiesApp\\Utilities.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:34:52.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elise\\OneDrive\\Desktop\\SimpleUtilitiesApp\\SimpleUtilitiesApp\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleUtilitiesApp\\Program.cs",
+              "ToolTip": "C:\\Users\\elise\\OneDrive\\Desktop\\SimpleUtilitiesApp\\SimpleUtilitiesApp\\Program.cs",
+              "RelativeToolTip": "SimpleUtilitiesApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:34:48.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
